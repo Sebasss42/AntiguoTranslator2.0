@@ -47,19 +47,20 @@ const regexSpecialCharacters = [
 const knowCases = 
   {
     agua: 'HiW',
-    argumento: 'Hrugumentu',
+    argumento: 'Hrgumentu',
     capitulo: 'Cpitoru',
-    mujer: 'DoN',
+    mujer: 'doN',
     aire: 'Er',
     espacio: 'esPi',
     fuego: 'fok',
     hombre: 'hom',
     indice: 'inodex',
-    cabron: 'orubak',
-    alkaesto: 'OtoseHkL',
+    alcaesto: 'OtoseHkL',
+    personaje: 'puerusoNtuje',
     personajes: 'puerusoNtujes',
     abrir: 'rirubo',
-    templo: 'erupmet',
+    templo: 'tempure',
+    cabron: 'orubak',
     tierra: 'tera'
   }
 
