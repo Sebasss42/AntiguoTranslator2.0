@@ -207,7 +207,7 @@ const antiguoButtons = [
     text: 't'
   },
   {
-    value: 't',
+    value: 'T',
     text: 'ta'
   },
   {
