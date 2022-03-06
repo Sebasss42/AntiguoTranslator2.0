@@ -185,10 +185,6 @@ const antiguoButtons = [
     text: 'q'
   },
   {
-    value: 'Q',
-    text: 'qa'
-  },
-  {
     value: 'r',
     text: 'r'
   },
