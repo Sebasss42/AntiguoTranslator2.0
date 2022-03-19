@@ -61,6 +61,7 @@ const knowCases =
     abrir: 'rirubo',
     templo: 'tempure',
     cabron: 'orubak',
+    antiguo: 'kitoN',
     tierra: 'tera'
   }
 
