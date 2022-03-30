@@ -62,6 +62,7 @@ const knowCases =
     templo: 'tempure',
     cabron: 'orubak',
     antiguo: 'kitoN',
+    vacio: 'buit',
     tierra: 'tera'
   }
 
