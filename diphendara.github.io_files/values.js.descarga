@@ -63,6 +63,7 @@ const knowCases =
     cabron: 'orubak',
     antiguo: 'kitoN',
     vacio: 'buit',
+    valbrandur: 'varubandur',
     tierra: 'tera'
   }
 
