@@ -8,7 +8,7 @@
   src: url("antiguo_jesulink.ttf")
 }
 
-@media only screen and (max-width: 650px) {
+@media only screen and (max-width: 870px) {
   
   body{
     background-image: url(backgroun.png);
@@ -201,7 +201,7 @@
 
   }
 
-@media only screen and (min-width: 651px) {
+@media only screen and (min-width: 871px) {
   
 body{
   background-image: url(backgroun.png);
