@@ -129,17 +129,14 @@ input::-webkit-inner-spin-button {
   -webkit-appearance: none;
 }
 
-.final{
+a{
   font-size: larger;
-  text-align: left;
+  text-align: center;
   padding: 1% 4%;
-  margin: 5%;
   margin-left: 18%;
-}
-
-.final a{
   color: white;
   text-decoration: none;
+  border-radius: 5em;
 }
 
 .boton-verde{
@@ -160,4 +157,9 @@ input::-webkit-inner-spin-button {
 
 footer{
   color: white;
+  margin-top: 5%;
 }
+
+.text-translators:last-of-type {
+    margin-bottom: 5%;
+  }
